@@ -1,0 +1,12 @@
+{
+  "name": "ui-materia-dark",
+  "displayName": "Materia Dark",
+  "theme": "ui",
+  "version": "0.0.1",
+  "description": "A clean adaptation of Materia Dark Theme for Mailspring. Based on the Arc Dark theme for Mailspring.",
+  "license": "MIT",
+  "engines": {
+    "mailspring": "*"
+  },
+  "private": true
+}
